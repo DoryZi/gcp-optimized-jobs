@@ -1,0 +1,7 @@
+cron:
+- description: task to kick off all updates
+  url: /events/run-jobs
+  schedule: every 2000 hours
+- description: task to shutdown jobs when finished
+  url: /events/shutdown-jobs
+  schedule: every 100 hours

@@ -1,0 +1,6 @@
+google-api-python-client
+GoogleAppEngineCloudStorageClient
+SQLAlchemy
+kubernetes
+google-auth-httplib2
+requests==2.3
